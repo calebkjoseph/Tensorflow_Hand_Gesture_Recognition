@@ -1,0 +1,5 @@
+*.jpg
+/venv
+*.xml
+TF_Hub_Trainable.ipynb
+labelImg/
